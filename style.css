@@ -1,0 +1,36 @@
+h1, p{
+    margin: 0;
+}
+
+.wrapper{
+    background-color: #ddd;
+    width: 800px;
+    margin: 50px auto;
+}
+
+.header{
+    background-color: #81F79F; 
+    text-align: center;
+    padding: 30px;
+}
+
+.header h1{
+    margin: 10px 0;
+}
+
+.header p{
+    background-color: #088A29;
+    padding: 30px;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.contents{
+    background-color: #F4FA58;
+}
+
+.footer{
+    background-color: #2E2E2E;
+    color: #EFFBF5;
+}
